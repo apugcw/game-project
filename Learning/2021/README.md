@@ -6,12 +6,12 @@
 
 ## 内容
 
-### [第1回]
+### 第1回
 
 以下のソフトのインストール（リンクはすべて別サイトに飛びます）
 - [VisualStudioComminity2019](https://visualstudio.microsoft.com/ja/downloads/)
 - [VisualStudioCode](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
-- [mingw](http://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/installer/mingw-w64-install.exe/download)（情報のみ）
+- [mingw (toSourceForge)](http://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/installer/mingw-w64-install.exe/download)（情報のみ）
 - [Unity](https://unity3d.com/jp/get-unity/download)
 
 gcc+vscodeの使い方<br>

@@ -14,6 +14,7 @@
 ここには最新年度で使用したファイルのリンクを書いておきます。  
 * [概要](https://github.com/apugcw/game-project/blob/main/Learning/2021/README.md)  
 * [用語集](https://github.com/apugcw/game-project/blob/main/Learning/2021/glossary.md)  
+* [Gitインストールガイド](https://github.com/apugcw/game-project/blob/main/Git_install.md)
 * [第1回](https://github.com/apugcw/game-project/blob/main/Learning/2021/L01.md)でインストールを行った各ソフトウェアについての注意点
 
 ----

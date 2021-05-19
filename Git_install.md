@@ -15,11 +15,11 @@
    * 注意：メールアドレスはgithub上の設定>Emails>Primary email address内の  
   00000+XXX.@users.noreply.github.com と書いているアドレスをコピペしましょう．
     ```
-    $ git config --global user.name 'username'
-    $ git config --global user.email 'username@example.com'
-    $ git config --global core.editor 'code --wait'
-    $ git config --global merge.tool 'code --wait "$MERGED"'
-    $ git config --global push.default simple
+    git config --global user.name 'username'
+    git config --global user.email 'username@example.com'
+    git config --global core.editor 'code --wait'
+    git config --global merge.tool 'code --wait "$MERGED"'
+    git config --global push.default simple
     ```
 5. Git for Windows では改行コードが問題になることがあるので詳しくし知りたい方は[Qiita](https://qiita.com/uggds/items/00a1974ec4f115616580)を御覧ください．  
     とりあえず設定できればいい方は以下のコマンドを実行してみてください．  

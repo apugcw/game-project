@@ -1,4 +1,4 @@
-# ProgramLearning
+# game-project
 このプロジェクトは秋田県立大学　ゲームクリエイティブワークス(GCW)の公式リポジトリです。  
 
 - [ProgramLearning](#programlearning)

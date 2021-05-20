@@ -1,7 +1,7 @@
-# game-project
+# ProgramLearning
 このプロジェクトは秋田県立大学　ゲームクリエイティブワークス(GCW)の公式リポジトリです。  
 
-- [game-project](#game-project)
+- [ProgramLearning](#programlearning)
     - [プログラミング勉強会について](#プログラミング勉強会について)
     - [制作したゲーム](#制作したゲーム)
     - [バグ報告について](#バグ報告について)
@@ -10,17 +10,15 @@
 -------
 
 ### プログラミング勉強会について
-各年度で作成した資料は、`Learning/[年度]/README.md`を御覧ください。  
-ここには最新年度で使用したファイルのリンクを書いておきます。  
-* [概要](https://github.com/apugcw/game-project/blob/main/Learning/2021/README.md)  
-* [用語集](https://github.com/apugcw/game-project/blob/main/Learning/2021/glossary.md)  
-* [Gitインストールガイド](https://github.com/apugcw/game-project/blob/main/Git_install.md)
-* [第1回](https://github.com/apugcw/game-project/blob/main/Learning/2021/L01.md)でインストールを行った各ソフトウェアについての注意点
+
+[こちらから御覧ください](https://github.com/apugcw/ProgramLearning)
 
 ----
 
 ### 制作したゲーム
-GCWで制作を行い完成した作品は[Releases](https://github.com/apugcw/game-project/releases)で公開を行っております。
+GCWで制作を行い完成した2020年以前の作品は[Releases](https://github.com/apugcw/game-project/releases)で公開を行っております。  
+また，それ以降の作品は個別リポジトリの**Releases**を御覧ください．  
+また作品直リンクは[秋田県立大学GCW公式サイト](https://www.apugcw.cf/)にて公開しております．
 
 ----
 
@@ -31,4 +29,3 @@ GCWで制作を行い完成した作品は[Releases](https://github.com/apugcw/g
 
 ### ライセンス  
 Apache-2.0 Licenseで配布しています。
-

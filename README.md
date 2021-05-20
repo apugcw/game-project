@@ -1,7 +1,7 @@
 # game-project
 このプロジェクトは秋田県立大学　ゲームクリエイティブワークス(GCW)の公式リポジトリです。  
 
-- [ProgramLearning](#programlearning)
+- [game-project](#game-project)
     - [プログラミング勉強会について](#プログラミング勉強会について)
     - [制作したゲーム](#制作したゲーム)
     - [バグ報告について](#バグ報告について)

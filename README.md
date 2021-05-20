@@ -30,5 +30,5 @@ GCWで制作を行い完成した作品は[Releases](https://github.com/apugcw/g
 ----
 
 ### ライセンス  
-Apach-2.0 Licenseで配布しています。
+Apache-2.0 Licenseで配布しています。
 
